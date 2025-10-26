@@ -1,6 +1,28 @@
 # WebSocket Chat Application
 
 A real-time chat application built with Spring Boot WebSocket and Java.
+# RealChat App (Java-based, WebSocket)
+
+A simple real-time chat application built using **Java** and **WebSockets**.
+
+---
+
+## Live Demo
+
+Click the link below to open the chat app:
+
+[**RealChat App**](https://cs-chatapp-0eua.onrender.com/)
+
+---
+
+## How to Use
+
+1. Open the link.
+2. Enter your name.
+3. Start chatting!
+
+> To chat with someone else, share the same link with them. They can also enter their name and start chatting instantly.
+
 
 ## Features
 
